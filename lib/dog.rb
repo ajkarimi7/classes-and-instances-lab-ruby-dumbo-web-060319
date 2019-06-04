@@ -1,4 +1,8 @@
 class Dog 
 end 
 
-clifford = Dog.new 
+clifford = Dog.new;
+max = Dog.new;
+bob = Dog.new;
+
+
